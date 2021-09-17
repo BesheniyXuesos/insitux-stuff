@@ -1,4 +1,4 @@
-	(var pos $dl.players.svyat2.position) 
+	(var pos $dl.players.PLAYERNAME.position) 
 	;change PLAYERNAME to your nickname to get your coordinates
 	;you can write coordinates instead of player position for example: (var pos [1 1 1])
 
